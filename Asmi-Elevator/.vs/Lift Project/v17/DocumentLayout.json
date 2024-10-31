@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|c:\\users\\user\\desktop\\asmi-elevator\\asmi-elevator\\lift project\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|c:\\users\\user\\desktop\\asmi-elevator\\asmi-elevator\\lift project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -63,8 +63,7 @@
               "ViewState": "AgIAACcAAAAAAAAAAAAnwCsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T01:40:09.234Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -79,8 +78,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Form1.cs [Design]",
               "RelativeToolTip": "Lift Project\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T06:22:19.014Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-31T06:22:19.014Z"
             },
             {
               "$type": "Document",
@@ -104,8 +102,7 @@
               "RelativeToolTip": "Lift Project\\elevator_state.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T02:08:41.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T02:08:41.797Z"
             },
             {
               "$type": "Document",
@@ -115,7 +112,7 @@
               "RelativeDocumentMoniker": "Lift Project\\Db_context.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Db_context.cs",
               "RelativeToolTip": "Lift Project\\Db_context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T04:56:41.422Z",
               "EditorCaption": ""
@@ -130,8 +127,7 @@
               "RelativeToolTip": "Lift Project\\moving_upstate.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:18:46.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T13:18:46.761Z"
             },
             {
               "$type": "Document",
@@ -179,8 +175,7 @@
               "RelativeToolTip": "Lift Project\\Form1.Designer.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAADgv3cBAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:34:29.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T04:34:29.679Z"
             }
           ]
         },

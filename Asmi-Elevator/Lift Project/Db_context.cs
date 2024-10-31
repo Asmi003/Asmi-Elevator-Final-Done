@@ -7,7 +7,7 @@ namespace Lift_Project
 {
     internal class Db_context
     {
-        private string connectionString = @"Server = LAPTOP-O2PGQJ7M\MYFIRSTSQL ; Database = TimerForm; Trusted_Connection = True";
+        private string connectionString = @"Server=DESKTOP-CRK0I9F\ASMI; Database=Asmi; Trusted_Connection=True;";
 
         public void InsertLogsIntoDB(DataTable dt)
         {

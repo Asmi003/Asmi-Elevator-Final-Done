@@ -1,0 +1,20 @@
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\bin\Debug\Lift Project.exe.config
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\bin\Debug\Lift Project.exe
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\bin\Debug\Lift Project.pdb
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\obj\Debug\Lift Project.csproj.AssemblyReference.cache
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\obj\Debug\Lift_Project.Form1.resources
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\obj\Debug\Lift_Project.Properties.Resources.resources
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\obj\Debug\Lift Project.csproj.GenerateResource.cache
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\obj\Debug\Lift Project.csproj.CoreCompileInputs.cache
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\obj\Debug\Lift Project.exe
+C:\Users\Ashmi Chaudhary\source\repos\Lift Project\Lift Project\obj\Debug\Lift Project.pdb
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\bin\Debug\Lift Project.exe.config
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\bin\Debug\Lift Project.exe
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\bin\Debug\Lift Project.pdb
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\obj\Debug\Lift Project.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\obj\Debug\Lift_Project.Form1.resources
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\obj\Debug\Lift_Project.Properties.Resources.resources
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\obj\Debug\Lift Project.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\obj\Debug\Lift Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\obj\Debug\Lift Project.exe
+C:\Users\user\Desktop\Asmi-Elevator\Asmi-Elevator\Lift Project\obj\Debug\Lift Project.pdb

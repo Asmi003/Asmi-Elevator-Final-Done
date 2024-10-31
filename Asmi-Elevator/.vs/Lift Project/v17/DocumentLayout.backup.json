@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|c:\\users\\user\\desktop\\asmi-elevator\\asmi-elevator\\lift project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\moving_upstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\moving_upstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\elevator_state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\elevator_state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\db_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\moving_downstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\moving_downstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\lift project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD40F021-800A-4ECB-991A-715E566CB341}|Lift Project\\Lift Project.csproj|solutionrelative:lift project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Lift Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Form1.cs*",
+              "RelativeToolTip": "Lift Project\\Form1.cs*",
+              "ViewState": "AgIAAB0BAAAAAAAAAIA2wCsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:40:09.234Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Lift Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Form1.cs [Design]*",
+              "RelativeToolTip": "Lift Project\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:22:19.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lift.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Lift.cs",
+              "RelativeDocumentMoniker": "Lift Project\\Lift.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Lift.cs",
+              "RelativeToolTip": "Lift Project\\Lift.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:05:51.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "elevator_state.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\elevator_state.cs",
+              "RelativeDocumentMoniker": "Lift Project\\elevator_state.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\elevator_state.cs",
+              "RelativeToolTip": "Lift Project\\elevator_state.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:08:41.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Db_context.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Db_context.cs",
+              "RelativeDocumentMoniker": "Lift Project\\Db_context.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Db_context.cs",
+              "RelativeToolTip": "Lift Project\\Db_context.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAkAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:56:41.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moving_upstate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\moving_upstate.cs",
+              "RelativeDocumentMoniker": "Lift Project\\moving_upstate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\moving_upstate.cs",
+              "RelativeToolTip": "Lift Project\\moving_upstate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:18:46.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Program.cs",
+              "RelativeDocumentMoniker": "Lift Project\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Program.cs",
+              "RelativeToolTip": "Lift Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:50:19.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "moving_downstate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\moving_downstate.cs",
+              "RelativeDocumentMoniker": "Lift Project\\moving_downstate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\moving_downstate.cs",
+              "RelativeToolTip": "Lift Project\\moving_downstate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:08:51.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\IdleState.cs",
+              "RelativeDocumentMoniker": "Lift Project\\IdleState.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\IdleState.cs",
+              "RelativeToolTip": "Lift Project\\IdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:17:55.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lift Project\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Asmi-Elevator\\Asmi-Elevator\\Lift Project\\Form1.Designer.cs*",
+              "RelativeToolTip": "Lift Project\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgv3cBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:34:29.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

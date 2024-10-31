@@ -66,12 +66,6 @@ namespace Lift_Project
         private void Form1_Load(object sender, EventArgs e)
         {
             db_Context.LoadLogsfromDB(dt, dataGridView);
-
-            pictureBox1.Image = Image.FromFile("C:\\Users\\user\\Desktop\\upArrow.gif");
-            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
-
-            pictureBox3.Image = Image.FromFile("C:\\Users\\user\\Desktop\\downArrow.gif");
-            pictureBox3.SizeMode = PictureBoxSizeMode.Zoom;
         }
 
         private async void btn_1_Click(object sender, EventArgs e)
